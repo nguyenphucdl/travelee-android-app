@@ -1,0 +1,2 @@
+1. https://www.google.com/design/spec/patterns/navigation-drawer.html#  Matertial Design
+2. https://developer.android.com/training/implementing-navigation/nav-drawer.html Creating a Navigation Drawer 
